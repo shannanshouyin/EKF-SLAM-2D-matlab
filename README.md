@@ -11,3 +11,4 @@
   FEKF_FIEKF_compare：FEJ-EKF与FEJ-IEKF对比分析
 具体细节请看pdf文档
 这是本人第一个项目，存在问题请读者海涵指正！
+![EKF-SLAM可视化展示](https://github.com/user-attachments/assets/0667ffec-b3dc-4d4e-bb03-7055df46daff)
