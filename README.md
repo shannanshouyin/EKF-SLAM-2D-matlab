@@ -9,7 +9,4 @@
   EFK_IEKF_FEFK_analysis：EKF、IEKF、FEJ-EKF三种方法对比分析
   F_IEKF_SLAM：FEJ-IEKF-SLAM仿真
   FEKF_FIEKF_compare：FEJ-EKF与FEJ-IEKF对比分析
-## 其他函数：
-  ekf_predict：EKF预测函数
-  ekf_update：EKF更新函数
-  
+具体细节请看pdf文档
